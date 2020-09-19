@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![postgreSQL](/images/postgresql.png)
+![postgreSQL](/images/postgresql.png =54x62)
 
 <!--
 **felipeyamane/felipeyamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<align ="left" alt = "postgresql" width="63" img src ='/images/postgresql.png' style = "max-width:100%;">
+<align ="left" alt = "postgresql" width="63" img src ='/images/postgresql.png'>
 <img src ='/images/mysql.png' width="63">
 
 

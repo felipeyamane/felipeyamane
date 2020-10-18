@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src ="/images/postgresql.png" width="63" alt = "postgresql" align = left>
-<img src ='/images/mysql.png' width="63">
+<img src ='/images/mysql.png' width="63" alt = "postgresql" align = left>
 
 
 <!--

@@ -74,14 +74,16 @@
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 -->
 <!--END_SECTION:activity-->
-<p></p>
+
 </details>
+<div>
 <br><p></p>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />
 </details>
 <p></p></br>
+</div>
 
 
 [website]: https://felipeyamane.com

@@ -33,15 +33,14 @@
 
 <img  width="63" alt = "github" align = left src ="/images/github.png"/>
 <img  width="63" alt = "linux" align = left src ="/images/linux.png"/>
-<img  width="63" alt = "postgresql" align = left src ="/images/postgresql.png"/>
-<img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/>
-
 <img  width="63" alt = "eclipse" align = left src ="/images/eclipse.png"/>
-<img  width="63" alt = "git" align = left src ="/images/git.png"/>
-
-<img  width="63" alt = "python" align = left src ="/images/python.png"/>
-<img  width="63" alt = "pycharm" align = left src ="/images/pycharm.png"/>
+<img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/>
+<img  width="63" alt = "postgresql" align = left src ="/images/postgresql.png"/>
 <img  width="63" alt = "vscode" align = left src ="/images/vscode.png"/>
+<img  width="63" alt = "pycharm" align = left src ="/images/pycharm.png"/>
+<img  width="63" alt = "git" align = left src ="/images/git.png"/>
+<img  width="63" alt = "python" align = left src ="/images/python.png"/>
+
 
 
 

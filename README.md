@@ -76,12 +76,12 @@
 <!--END_SECTION:activity-->
 
 </details>
-<br><p>
+<br><p></p>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />
 </details>
-</p></br>
+<p></p></br>
 
 
 [website]: https://felipeyamane.com

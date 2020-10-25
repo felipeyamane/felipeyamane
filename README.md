@@ -33,7 +33,7 @@
 
 <img  width="63" alt = "postgresql" align = left src ="/images/postgresql.png"/>
 <img  width="63" alt = "python" align = left src ="/images/python.png"/>
-<img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/><br/>
+<img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/><br/><br/><br/><br/>
 
 <!--
 

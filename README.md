@@ -27,10 +27,9 @@
 ### Languages and Tools:
 
 [<img  width="63" alt = "postgresql" align = left src ="/images/postgresql.png"/>]
+[<img  width="63" alt = "python" align = left src ="/images/python.png"/>]
 [<img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/>]
-[<img  width="63" alt = "python" align = left src ="/images/python.svg"/>]
 
-<img src ='/images/mysql.png' width="63" alt = "postgresql" align = left>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]

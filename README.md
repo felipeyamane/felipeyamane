@@ -4,13 +4,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, IT Analyst and Software Engineer Student at [PUC-PR][pucpr] !!
-
+<!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
+-->
+<!--
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -24,12 +25,15 @@
 
 <br />
 
+-->
+
 ### Languages and Tools:
 
 [<img  width="63" alt = "postgresql" align = left src ="/images/postgresql.png"/>]
 [<img  width="63" alt = "python" align = left src ="/images/python.png"/>]
 [<img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/>]
 
+<!--
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -54,6 +58,9 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+
+-->
+
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
@@ -72,16 +79,16 @@
 
 </details>
 
+
 [website]: https://felipeyamane.com
 [twitter]: https://twitter.com/felipeyamane
 [instagram]: https://instagram.com/felipeyamane
 [linkedin]: https://linkedin.com/in/felipeyamane
 [pucpr]: https://www.pucpr.br
 
-
+<!-->
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-
+--> 

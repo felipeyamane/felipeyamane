@@ -77,12 +77,12 @@
 
 </details>
 <div>
-<br><p></p>
+</br>
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />
+  [<summary>:zap: GitHub Stats</summary>]
+  [<img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />]
 </details>
-<p></p></br>
+</br>
 </div>
 
 

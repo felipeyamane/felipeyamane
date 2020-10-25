@@ -34,7 +34,6 @@
 <img  width="63" alt = "postgresql" align = left src ="/images/postgresql.png"/>
 <img  width="63" alt = "python" align = left src ="/images/python.png"/>
 <img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/>
-<p><p/>
 
 <!--
 
@@ -76,14 +75,13 @@
 <!--END_SECTION:activity-->
 
 </details>
-<div>
-</br>
+
+<br>
 <details>
-  [<summary>:zap: GitHub Stats</summary>]
-  [<img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />]
+  <br><summary>:zap: GitHub Stats</summary><br/>
+  <img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />
 </details>
-</br>
-</div>
+<br/>
 
 
 [website]: https://felipeyamane.com

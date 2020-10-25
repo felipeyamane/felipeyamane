@@ -76,6 +76,7 @@
 </details>
 
 <details>
+<br />
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />
@@ -89,7 +90,7 @@
 [linkedin]: https://linkedin.com/in/felipeyamane
 [pucpr]: https://www.pucpr.br
 
-<!-->
+<!--
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4

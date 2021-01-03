@@ -23,9 +23,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-teste
 
-teste 2222
 
 <br />
 
@@ -42,9 +40,6 @@ teste 2222
 <img  width="63" alt = "pycharm" align = left src ="/images/pycharm.png"/>
 <img  width="63" alt = "git" align = left src ="/images/git.png"/>
 <img  width="63" alt = "python" align = left src ="/images/python.png"/>
-
-
-ffff
 
 <br/><br/><br/><br/>
 

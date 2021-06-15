@@ -1,9 +1,8 @@
 ### Hi there, I'm Felipe Yamane - aka [FelipeYamane][website] 👋
 
 [![Website](https://img.shields.io/website?label=felipeyamane.com&style=for-the-badge&url=https%3A%2F%2Ffelipeyamane.com)](https://felipeyamane.com)
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=felipeyamane)
+
 ## I'm a Husband, IT Analyst and Software Engineer Student at [PUC-PR][pucpr] !!
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -31,15 +30,18 @@
 
 ### Languages and Tools:
 
-<img  width="63" alt = "github" align = left src ="/images/github.png"/>
-<img  width="63" alt = "linux" align = left src ="/images/linux.png"/>
-<img  width="63" alt = "eclipse" align = left src ="/images/eclipse.png"/>
-<img  width="63" alt = "mysql" align = left src ="/images/mysql.png"/>
-<img  width="63" alt = "postgresql" align = left src ="/images/postgresql.png"/>
-<img  width="63" alt = "vscode" align = left src ="/images/vscode.png"/>
-<img  width="63" alt = "pycharm" align = left src ="/images/pycharm.png"/>
-<img  width="63" alt = "git" align = left src ="/images/git.png"/>
-<img  width="63" alt = "python" align = left src ="/images/python.png"/>
+<div>
+  <img style="float: left; margin: 10px 0 0 0;" width="63" alt = "github" align = left src ="images/github.png"/>
+  <img style="float: left; margin: 65px 0 0 -30px;" width="63" alt = "linux" align = left src ="images/linux.png"/>
+  <img style="float: left; margin: 10px 0 0 -30px;" width="63" alt = "eclipse" align = left src ="images/eclipse.png"/>
+  <img style="float: left; margin: 65px 0 0 -30px;" width="63" alt = "mysql" align = left src ="images/mysql.png"/>
+  <img style="float: left; margin: 10px 0 0 -30px;" width="63" alt = "postgresql" align = left src ="images/postgresql.png"/>
+  <img style="float: left; margin: 65px 0 0 -30px;" width="63" alt = "vscode" align = left src ="images/vscode.png"/>
+  <img style="float: left; margin: 10px 0 0 -30px;" width="63" alt = "pycharm" align = left src ="images/pycharm.png"/>
+  <img style="float: left; margin: 65px 0 0 -30px;" width="63" alt = "git" align = left src ="images/git.png"/>
+  <img style="float: left; margin: 10px 0 0 -30px;" width="63" alt = "python" align = left src ="images/python.png"/>
+
+</div>
 
 <br/><br/><br/><br/>
 
@@ -97,10 +99,3 @@
 [instagram]: https://instagram.com/felipeyamane
 [linkedin]: https://linkedin.com/in/felipeyamane
 [pucpr]: https://www.pucpr.br
-
-<!--
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
---> 

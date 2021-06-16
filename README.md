@@ -21,7 +21,6 @@
 <br>
 ### Languages and Tools:
 
-
 <div>
   <img align= "left" width ="63" alt ="github" src ="images/github.png"/>
   <img align= "left" width ="63" alt ="linux" src ="images/linux.png"/>
@@ -29,20 +28,9 @@
   <img align= "left" width ="63" alt ="mysql" src ="images/mysql.png"/>
   <img align= "left" width="63" alt = "postgresql" src ="images/postgresql.png"/>
   <img align= "left" width="63" alt = "vscode" src ="images/vscode.png"/>
-  <img align= "left" width="63" alt = "pycharm" src ="images/pycharm.png"/>
   <img align= "left" width="63" alt = "git" src ="images/git.png"/>
   <img align= "left" width="63" alt = "python" src ="images/python.png"/>
 </div>
-
-</details>
-
-<br>
-<details>
-  <br><summary>:zap: GitHub Stats</summary><br/>
-  <img align="left" alt="FelipeYamane GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipeyamane&show_icons=true&hide_border=true" />
-</details>
-<br/>
-
 
 [website]: https://felipeyamane.com
 [twitter]: https://twitter.com/felipeyamane

@@ -4,6 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/felipeyamane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffelipeyamane&screen_name=felipeyamane)
 
 ## I'm a Husband, IT Analyst and Software Engineer Student at [PUC-PR][pucpr] !!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeyamane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
